@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/stutern_user-api/static/css/main.303401be.chunk.css",
+    "main.js": "/stutern_user-api/static/js/main.ec9e357c.chunk.js",
+    "main.js.map": "/stutern_user-api/static/js/main.ec9e357c.chunk.js.map",
+    "runtime-main.js": "/stutern_user-api/static/js/runtime-main.4d137406.js",
+    "runtime-main.js.map": "/stutern_user-api/static/js/runtime-main.4d137406.js.map",
+    "static/js/2.d533cc22.chunk.js": "/stutern_user-api/static/js/2.d533cc22.chunk.js",
+    "static/js/2.d533cc22.chunk.js.map": "/stutern_user-api/static/js/2.d533cc22.chunk.js.map",
+    "index.html": "/stutern_user-api/index.html",
+    "static/css/main.303401be.chunk.css.map": "/stutern_user-api/static/css/main.303401be.chunk.css.map",
+    "static/js/2.d533cc22.chunk.js.LICENSE.txt": "/stutern_user-api/static/js/2.d533cc22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d137406.js",
+    "static/js/2.d533cc22.chunk.js",
+    "static/css/main.303401be.chunk.css",
+    "static/js/main.ec9e357c.chunk.js"
+  ]
+}
